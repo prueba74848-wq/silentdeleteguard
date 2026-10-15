@@ -1,0 +1,8 @@
+{
+	"name": "SilentDeleteGuard",
+	"description": "Keeps messages that are removed with the nonce-swap silent delete trick, and shows a note instead.",
+	"authors": [{ "name": "you" }],
+	"main": "index.js",
+	"hash": "20e3475d629418cdd0b923efb0102b12612c6be3537fac703b24ecafca346739",
+	"vendetta": { "icon": "ic_message_delete" }
+}
